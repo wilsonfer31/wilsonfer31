@@ -11,7 +11,7 @@ Java && Angular
 
 I've worked on big projects, small projects, and projects that were just the right size. 
 
-So!!! Basically, I'm a pro at handling any project thrown my way. :flex:
+So!!! Basically, I'm a pro at handling any project thrown my way. YEY
 
 If you have any questions or want to work together on a project, hit me up! :email:
 
