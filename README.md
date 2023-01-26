@@ -20,4 +20,5 @@ Thanks for stopping by! :heart:
 ------------------------------------------------------------------------
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsonfer31&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonfer31&layout=compact&langs_count=10&theme=dark"/>
 </div>
