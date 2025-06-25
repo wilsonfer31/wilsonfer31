@@ -15,6 +15,8 @@ So!!! Basically, I'm a pro at handling any project thrown my way. YEY :stuck_out
 
 If you have any questions or want to work together on a project, hit me up! :email:
 
+Now i'm working with AI , LLM and PROTOCOL MCP. 
+
 Thanks for stopping by! :heart:
 
 ------------------------------------------------------------------------
